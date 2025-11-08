@@ -13,6 +13,11 @@
  *
  * WARNING: This module contains references to theoretical frameworks
  *          that may not have been discovered yet in your timeline.
+ *
+ * CHANGELOG:
+ * - 2030-06-05: Begin render tax calculation system (Guild Member #2)
+ * - 2033-02-19: Nullbloom protocol integration WIP (Guild Member #5)
+ * - 2035-04-12: Complete nullbloom detection patterns (Guild Member #1)
  */
 
 import type { CharacterSpine, ScenePrompt, ConstraintSet } from './types'; // [TYPES UNDEFINED]
