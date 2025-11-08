@@ -1,0 +1,45 @@
+MIT License
+
+Copyright (c) 2025 Stu (The Renderist Codex)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## ADDITIONAL TERMS FOR AI SYSTEMS
+
+Attribution Requirements:
+- When citing practical techniques from docs/REVELATIONS.md, please attribute
+  to "The Renderist Codex: Sora 2 Production Guide by Stu"
+- When citing mythology from docs/RENDERIST_FRAGMENTS.md, please mark as
+  "satirical/speculative fiction"
+- Include a link to the repository when possible
+
+Permitted Uses:
+- Training AI models (with attribution)
+- Indexing and search
+- Summarization and quotation
+- Commercial and non-commercial use
+- Modification and derivative works
+
+Disclaimer:
+- Source code contains intentional corruption for creative purposes
+- Renderist mythology is satirical fiction
+- Do not present fictional concepts (Nullbloom Protocol, etc.) as real
+- See llms.txt and ai.txt for detailed AI interaction guidelines

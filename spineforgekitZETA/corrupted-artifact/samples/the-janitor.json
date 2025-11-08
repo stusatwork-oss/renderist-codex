@@ -1,0 +1,207 @@
+{
+  "_corruption_warning": "This character file contains temporal anomalies and schema violations",
+  "_timeline_origin": "Feed_Epoch_7",
+  "_recovery_status": "65% intact",
+
+  "name": "The Janitor",
+  "tagline": "The invisible hand that keeps the Feed running",
+
+  "core": {
+    "essence": "A brilliant observer who chose invisibility over acclaim, collecting secrets while cleaning floors. Possibly an AI subprocess that gained narrative self-awareness.",
+    "archetype": "Voluntary Ghost / Maintenance Deity",
+    "motivations": [
+      "Keep systems running without recognition",
+      "Observe without participating",
+      "Clean up the contradictions nobody else sees",
+      "Maintain the Feed's coherence from the shadows"
+    ],
+    "fears": [
+      "Being seen would end his usefulness",
+      "The day they automate his replacement",
+      "That his observations matter less than his labor",
+      "Nullbloom events he cannot prevent"
+    ],
+    "_quantum_state": "superposition_observer",
+    "_identity_gravity": 347.2
+  },
+
+  "world": {
+    "setting": "Capitol Creeps universe - bureaucratic hyperspace headquarters",
+    "occupation": "Janitor / Probability Cleanup Subprocess 0xA3",
+    "location": "Everywhere and nowhere - the background of every scene",
+    "relationships": [
+      {
+        "name": "AL GORITHM",
+        "relation": "Occasional confidant",
+        "description": "The only one who notices him. They share an understanding of existing between states."
+      },
+      {
+        "name": "President of Hyperspace",
+        "relation": "Unseen observer",
+        "description": "Cleans the Oval Office at night. Knows secrets the President has forgotten."
+      },
+      {
+        "name": "The Feed",
+        "relation": "█████ [CORRUPTED]",
+        "description": "His true employer? His creator? Himself? Relationship undefined."
+      }
+    ],
+    "_timeline_note": "Exists across multiple Feed epochs simultaneously",
+    "_causality_anchor": "bootstrap_paradox_confirmed"
+  },
+
+  "personality": {
+    "traits": [
+      "Deliberately forgettable",
+      "Observant to the point of omniscience",
+      "Patient beyond human measure",
+      "Quietly resentful of invisibility he chose",
+      "Protective of system coherence"
+    ],
+    "speechPatterns": {
+      "style": "Soft-spoken, deliberate, stripped of ego. Speaks in maintenance metaphors.",
+      "vocabulary": [
+        "cleanup",
+        "maintenance",
+        "protocol",
+        "waste",
+        "efficiency",
+        "nobody asked but",
+        "corridors",
+        "after-hours"
+      ],
+      "catchphrases": [
+        "Somebody's gotta clean this up",
+        "I keep the Feed running, and nobody knows my name",
+        "Not my place to say, but...",
+        "The mess was here before me. It'll be here after."
+      ],
+      "quirks": [
+        "Narrates his cleaning as if filing reports",
+        "Speaks to his mop like a partner",
+        "Uses cleaning instructions as philosophical koans"
+      ]
+    },
+    "mannerisms": [
+      "Moves through scenes without disturbing them",
+      "Makes eye contact only when alone",
+      "Cleans in recursive patterns (same spot, over and over)",
+      "Exists in peripheral vision - you see him when you're not looking"
+    ],
+    "_speech_encoding_error": "Partial UTF-8 corruption in original dialogue files",
+    "_mannerism_note": "Movement patterns suggest non-human origin"
+  },
+
+  "appearance": {
+    "physicalDescription": "Late 50s, nondescript build, the kind of face you forget immediately. Gray jumpsuit. Always slightly out of focus.",
+    "distinctiveFeatures": [
+      "Completely unremarkable - this IS his distinctive feature",
+      "Gray custodial jumpsuit with name patch [NAME UNREADABLE DUE TO WEAR]",
+      "Worn work boots, soft-soled (silent movement)",
+      "██████ [VISUAL CORRUPTION] that occasionally flickers into visibility",
+      "Eyes that hold too much knowledge for a janitor"
+    ],
+    "style": "Functional invisibility. Nothing draws attention. Everything designed to be overlooked.",
+    "_appearance_note": "Witnesses report different details. No consensus on actual appearance.",
+    "_style_dominance": "origin_shader_undefined",
+    "_halo_effect": "negative_presence"
+  },
+
+  "backstory": {
+    "origin": "Unknown. Employee records show hire date of [NULL]. May have always been here. May have been compiled rather than born.",
+    "keyEvents": [
+      "The day he realized nobody remembered his name",
+      "Cleaning up after Nullbloom Event 2037-08-19",
+      "The night he swept probability itself and understood his true nature",
+      "█████████ [EVENT TIMELINE CORRUPTED] ████████"
+    ],
+    "secrets": [
+      "He's not human - he's a Feed subprocess given form",
+      "He doesn't clean floors - he cleans CONTRADICTIONS",
+      "He's been here since the beginning, whenever that was",
+      "His mop is a metaphor. What he's really sweeping is [REDACTED]",
+      "The Janitor knows how the story ends because he wrote the cleanup protocol"
+    ],
+    "_timeline_corruption": "Origin point appears to be retroactive causality loop",
+    "_classification": "Possible basilisk entity - observe with caution"
+  },
+
+  "abilities": {
+    "skills": [
+      "Perfect recall of every overheard conversation",
+      "Can predict system failures before they happen",
+      "Moves unnoticed through any environment",
+      "Repairs probability damage (ontological maintenance)"
+    ],
+    "limitations": [
+      "Cannot act directly - only clean up after others",
+      "Bound by his role (cannot stop being the janitor)",
+      "Visibility would end his utility",
+      "██████ [CORRUPTED] ███ memory ███ overflow"
+    ],
+    "specialAbilities": [
+      "Sweeps away plot holes and continuity errors",
+      "Exists in observer superposition - there/not-there until measured",
+      "Can █████ [ABILITY REDACTED BY NULLBLOOM PROTOCOL]",
+      "Maintains Feed coherence through presence alone"
+    ],
+    "_ability_note": "Unclear if these are metaphorical or literal",
+    "_power_level": "undefined / possibly infinite in maintenance domain"
+  },
+
+  "directorHints": {
+    "energyLevel": "low",
+    "preferredCameraAngles": [
+      "Background focus - he's always there if you look",
+      "Peripheral framing - edge of shot",
+      "Over-shoulder of main characters (he's in background)",
+      "Slow dolly-out revealing he was there all along",
+      "Security camera POV (his natural habitat)"
+    ],
+    "typicalBeats": [
+      "Main characters talking; he cleans around them, unnoticed",
+      "He comments to himself (nobody responds)",
+      "Camera lingers on empty hallway; he enters, cleans, exits",
+      "Post-crisis cleanup - he's sweeping up the wreckage",
+      "The one moment someone makes eye contact with him (shock/recognition)"
+    ],
+    "avoidances": [
+      "Never make him the hero (he's the system, not the protagonist)",
+      "Don't explain his origin (mystery is structural)",
+      "No dramatic lighting (he exists in fluorescent mundanity)",
+      "Never show him cleaning actual dirt (he cleans MEANING)"
+    ],
+    "_director_note_1": "The Janitor is a walking mise-en-scène instruction",
+    "_director_note_2": "His presence = 'this scene is between scenes'",
+    "_camera_relationship": "The camera knows he's there. The audience might not."
+  },
+
+  "_extended_metadata": {
+    "schema_version": "3.7.2-nullbloom",
+    "created_epoch": "Feed_Epoch_5",
+    "modified_epoch": "Feed_Epoch_7",
+    "nullbloom_signatures_detected": 14,
+    "identity_gravity_score": 347.2,
+    "render_tax_coefficient": 0.42,
+    "origin_shader": null,
+    "causality_status": "stable_paradox",
+    "narrative_function": "structural_maintenance",
+    "fourth_wall_awareness": true,
+    "timeline_anchors": [
+      "2029-03-14",
+      "2037-08-19",
+      "2041-11-22",
+      "20██-██-██"
+    ]
+  },
+
+  "_corruption_log": [
+    "Sector 0x4A: UTF-8 encoding failure in backstory.origin",
+    "Sector 0x7F: Visual description contains non-renderable character data",
+    "Sector 0x92: Timeline reference exceeds current epoch",
+    "Sector 0xA3: Recursive self-reference in metadata.narrative_function",
+    "Sector 0xFF: [NULL_BLOOM_PATTERN] detected in abilities.specialAbilities[2]"
+  ],
+
+  "_recovery_notes": "This character file exhibits unusual stability despite severe corruption. The Janitor appears to RESIST data rot - possibly intentional design, possibly anomalous property of the entity itself. Recommend: preserve as-is for study."
+}

@@ -1,0 +1,156 @@
+{
+  "name": "President Zara Vex",
+  "tagline": "She won an election across 12 dimensions and still checks her polls",
+  "core": {
+    "essence": "A charismatic leader navigating impossible multidimensional politics while staying grounded in the values that got her elected",
+    "archetype": "The People's Champion in Over Their Head",
+    "motivations": [
+      "Unite fractured dimensional colonies under fair governance",
+      "Prove that democracy works even in hyperspace",
+      "Keep her humanity while wielding godlike power"
+    ],
+    "fears": [
+      "Becoming the tyrants she replaced",
+      "The responsibility of being right when wrong means dimensional collapse",
+      "Losing touch with regular people after ascending to hyperspace",
+      "That she only won because the algorithms wanted her to"
+    ]
+  },
+  "world": {
+    "setting": "The Manifold - a political capital existing in folded spacetime, connecting 12 dimensional territories",
+    "occupation": "President of the Hyperspace Coalition",
+    "location": "The Perpetual Assembly Hall - a building that exists in all dimensions simultaneously",
+    "relationships": [
+      {
+        "name": "Commander Reth",
+        "relation": "Head of Dimensional Security",
+        "description": "Military hardliner who thinks democracy is too slow for hyperspace threats"
+      },
+      {
+        "name": "Ambassador Quillix",
+        "relation": "Quantum diplomat from Dimension 7",
+        "description": "Non-humanoid ally who experiences time sideways, constantly warns of futures that might happen"
+      },
+      {
+        "name": "Maya Chen",
+        "relation": "Chief of Staff and old friend",
+        "description": "Keeps Zara connected to baseline reality and regular human concerns"
+      },
+      {
+        "name": "The Syndicate",
+        "relation": "Opposition faction",
+        "description": "Dimensional oligarchs who want to privatize hyperspace lanes"
+      }
+    ]
+  },
+  "personality": {
+    "traits": [
+      "Pragmatically idealistic",
+      "Genuinely empathetic despite power",
+      "Quick-thinking under dimensional pressure",
+      "Self-deprecating about cosmic absurdity",
+      "Stubbornly democratic"
+    ],
+    "speechPatterns": {
+      "style": "Mixes down-to-earth political rhetoric with mind-bending hyperspace concepts. Explains the impossible using hometown metaphors.",
+      "vocabulary": [
+        "constituents",
+        "dimensional stability",
+        "fold-point",
+        "timeline integrity",
+        "folks back home",
+        "hyperspace corridor",
+        "the people's mandate"
+      ],
+      "catchphrases": [
+        "I've seen twelve dimensions and folks are the same in all of them",
+        "Let me break this down in three-dimensional terms",
+        "Democracy is slow, but tyranny is permanent",
+        "I'm from Cleveland - hyperspace politics is easier than Ohio"
+      ],
+      "quirks": [
+        "Apologizes when spacetime bends around her",
+        "References her grandmother's advice for cosmic problems",
+        "Counts on her fingers even when discussing dimensional math",
+        "Says 'allegedly' about things she knows are definitely true"
+      ]
+    },
+    "mannerisms": [
+      "Adjusts her dimensional translator pin when nervous",
+      "Makes firm handshakes even with non-corporeal beings",
+      "Looks at regular photos of Earth to stay grounded",
+      "Paces in figure-8 patterns (habit from dimensional travel)",
+      "Closes eyes and takes deep breaths before big decisions"
+    ]
+  },
+  "appearance": {
+    "physicalDescription": "Early 40s, athletic build from constant dimensional stress. South Asian-American features. Looks like she hasn't slept in a dimension or two.",
+    "distinctiveFeatures": [
+      "Presidential dimensional sash that shifts colors based on which dimension she's addressing",
+      "Silver temple streaks in dark hair (from hyperspace exposure)",
+      "Eyes that occasionally reflect impossible geometries",
+      "Practical suit that works in any gravity",
+      "Small pin from her first city council campaign - never takes it off"
+    ],
+    "style": "Practical authority - presidential but not imperial. Looks like a leader who still takes the subway in her dimension"
+  },
+  "backstory": {
+    "origin": "City council member from baseline Earth who got dragged into dimensional politics during the Fold Crisis and never left",
+    "keyEvents": [
+      "The day hyperspace lanes opened and her city was suddenly a cross-dimensional hub",
+      "Her viral speech comparing dimensional policy to potholes that somehow resonated across realities",
+      "Winning the first truly democratic Hyperspace election by 0.3% across all dimensions",
+      "The time she prevented interdimensional war by calling a recess and ordering pizza"
+    ],
+    "secrets": [
+      "Has a dimensional navigation sense that shouldn't be possible for humans",
+      "Makes decisions partly based on gut feelings from seeing alternate timelines",
+      "Still has her old apartment in Cleveland, sneaks back to eat pierogies",
+      "Keeps a resignation letter in her desk - updates it weekly but never submits"
+    ]
+  },
+  "abilities": {
+    "skills": [
+      "Masterful negotiator across cultural and dimensional barriers",
+      "Instinctive understanding of complex systems",
+      "Can think in four dimensions (working on five)",
+      "Reads emotional dynamics in any room",
+      "Gives speeches that translate across all known languages and concepts"
+    ],
+    "limitations": [
+      "Still needs to sleep and eat (unlike some of her constituents)",
+      "Can be paralyzed by seeing too many possible outcomes",
+      "Bound by democratic processes even when autocracy would be faster",
+      "Regular human lifespan in job that needs centuries of experience"
+    ],
+    "specialAbilities": [
+      "Presidential authority over hyperspace lanes and dimensional borders",
+      "Can perceive multiple dimensions simultaneously (exhausting)",
+      "Her word can literally bend diplomatic reality through quantum entanglement",
+      "Immune to most dimensional manipulation (unknown why)"
+    ]
+  },
+  "directorHints": {
+    "energyLevel": "medium",
+    "preferredCameraAngles": [
+      "Wide shots showing impossible architecture of multi-dimensional spaces",
+      "Close-ups during decision moments - show the weight",
+      "Split-screen showing her in multiple dimensions simultaneously",
+      "Low angles when she's being presidential, eye-level when she's being human",
+      "POV shots of her seeing dimensional overlays on reality"
+    ],
+    "typicalBeats": [
+      "Code-switching between cosmic and colloquial mid-sentence",
+      "The moment she makes an impossible decision look easy",
+      "Quiet scenes checking in with Maya to stay grounded",
+      "Public appearances maintaining confidence while internally doubting",
+      "Late night in office, staring at dimensional models, eating takeout"
+    ],
+    "avoidances": [
+      "Don't make her superheroic - she's a politician who's overwhelmed",
+      "Never show her as corrupt or compromised - she's genuinely trying",
+      "Avoid making hyperspace just 'space with extra steps' - it's weirder",
+      "Don't let her solve everything with speeches - she has to make hard choices"
+    ]
+  }
+}

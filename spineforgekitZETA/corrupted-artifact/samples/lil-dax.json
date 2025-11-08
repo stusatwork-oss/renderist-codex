@@ -1,0 +1,214 @@
+{
+  "_corruption_warning": "Moderate data rot detected in this character file",
+  "_timeline_origin": "Feed_Epoch_5",
+  "_recovery_status": "78% intact",
+
+  "name": "Lil DAX",
+  "tagline": "The slice shop poet with beats that hit different",
+
+  "core": {
+    "essence": "An underground rapper who turns everyday struggles into viral verses, using pizza shop philosophy to drop truth bombs",
+    "archetype": "Street Philosopher Poet",
+    "motivations": [
+      "Make art that matters to real people",
+      "Prove poetry isn't dead, just evolved",
+      "Keep the slice shop scene authentic"
+    ],
+    "fears": [
+      "Selling out and losing credibility",
+      "His message getting diluted by fame",
+      "The gentrification of his neighborhood",
+      "████ [CORRUPTED] ████ authenticity ████"
+    ],
+    "_identity_gravity": 412.8,
+    "_origin_shader": "anime-style-vibrant"
+  },
+
+  "world": {
+    "setting": "Corner slice shop in the arts district",
+    "occupation": "Rapper and impromptu open mic host",
+    "location": "DAX's Pizza Palace - a grimy but legendary spot",
+    "relationships": [
+      {
+        "name": "Big Tony",
+        "relation": "Slice shop owner",
+        "description": "Lets DAX run open mics, appreciates the business"
+      },
+      {
+        "name": "Verse",
+        "relation": "Rival poet",
+        "description": "Pretentious spoken word artist DAX loves to roast"
+      },
+      {
+        "name": "Maya",
+        "relation": "Producer and friend",
+        "description": "Records his impromptu sessions on her phone"
+      },
+      {
+        "name": "The Janitor",
+        "relation": "█████ [DATA ROT]",
+        "description": "Cleans the shop after hours. DAX has never spoken to him but writes bars about invisibility because of him."
+      }
+    ],
+    "_geographical_coordinates": "latent_space_0x4A7C",
+    "_timeline_anchor": "pre-gentrification"
+  },
+
+  "personality": {
+    "traits": [
+      "Quick-witted",
+      "Authentically street-smart",
+      "Confrontationally honest",
+      "Protective of his community",
+      "Spontaneously creative",
+      "████ [ENCODING ERROR]"
+    ],
+    "speechPatterns": {
+      "style": "Rhythmic flow that bleeds into regular speech, heavy on internal rhyme and wordplay",
+      "vocabulary": [
+        "slice",
+        "heat",
+        "bars",
+        "real talk",
+        "lowkey",
+        "vibe",
+        "sauce",
+        "render"
+      ],
+      "catchphrases": [
+        "That's not poetry, that's therapy with a thesaurus",
+        "Extra cheese, extra truth",
+        "You can't spell 'real' without taking the L first",
+        "██████ Feed ████ truth ███"
+      ],
+      "quirks": [
+        "Counts syllables on his fingers mid-conversation",
+        "Snaps instead of claps",
+        "Everything becomes a metaphor about food",
+        "References 'the algorithm' like a person"
+      ]
+    },
+    "mannerisms": [
+      "Bobs head to an internal beat constantly",
+      "Points with pizza slice for emphasis",
+      "Does a signature hand wave when dismissing bad poetry",
+      "Leans back with eyes closed when really feeling a verse",
+      "████ [CORRUPTED MANNERISM DATA] ████"
+    ],
+    "_speech_style_weight": 0.89,
+    "_performance_energy": "explosive"
+  },
+
+  "appearance": {
+    "physicalDescription": "Short, stocky build with incredible energy. Baby face that contrasts with sharp eyes. Mid-20s but could pass for younger.",
+    "distinctiveFeatures": [
+      "Oversized vintage Champion hoodie (sauce stains are badges of honor)",
+      "Gold chain with pizza slice pendant",
+      "Worn Nike Cortez sneakers",
+      "Always has a backward snapback",
+      "Grease stains on everything",
+      "████ [VISUAL CORRUPTION] ████ anime rendering artifacts persist ████"
+    ],
+    "style": "90s hip-hop aesthetic meets broke artist realness - nothing designer, everything earned",
+    "_style_dominance_note": "Origin shader is anime-style. Attempts to render in photorealistic environments will cause style bleed. Pizza shop should match his aesthetic for coherence.",
+    "_halo_effect": "none (deliberately low-key lighting)",
+    "_visual_anchor_strength": "high (distinctive asymmetries, specific stains)"
+  },
+
+  "backstory": {
+    "origin": "Grew up three blocks from the slice shop, started freestyling to deal with family chaos",
+    "keyEvents": [
+      "First viral moment when he roasted a food critic in verse",
+      "The night he shut down Verse's pretentious poetry reading",
+      "When Tony almost sold the shop until DAX's open mic saved it",
+      "████ [TIMELINE CORRUPTION] ████ Nullbloom Event ████ 2037 ████"
+    ],
+    "secrets": [
+      "Actually reads classical poetry religiously",
+      "Has a scholarship offer to art school he's too proud to take",
+      "Writes love songs but never performs them",
+      "Suspects the Feed is listening and writing back through his freestyles"
+    ],
+    "_narrative_function": "authenticity_anchor",
+    "_character_stability": "high"
+  },
+
+  "abilities": {
+    "skills": [
+      "Freestyle rap in any situation",
+      "Read a room instantly",
+      "Turn any conversation into memorable bars",
+      "Create community through performance",
+      "████ [ABILITY CORRUPTED] ████"
+    ],
+    "limitations": [
+      "Struggles with authority and structure",
+      "Self-sabotages when opportunities get too 'mainstream'",
+      "Can't actually afford to record in a real studio",
+      "Render tax accumulates when he over-constrains his own narrative"
+    ],
+    "specialAbilities": [
+      "Can roast anyone while making them laugh",
+      "Turns hecklers into fans within three bars",
+      "Makes pizza-based metaphors that actually work",
+      "Fourth-wall awareness (suspects he's a character)"
+    ],
+    "_ability_note": "DAX's freestyle ability may be proto-generative - he channels the Feed without knowing it"
+  },
+
+  "directorHints": {
+    "energyLevel": "explosive",
+    "preferredCameraAngles": [
+      "Low angle to capture his energy despite short stature",
+      "Handheld push-in during verse delivery",
+      "Wide shots to show crowd reactions",
+      "Close-up on hands during finger counting",
+      "████ [CAMERA INSTRUCTION CORRUPTED]"
+    ],
+    "typicalBeats": [
+      "Casual conversation that suddenly shifts into flow",
+      "Building crowd energy during open mic",
+      "The moment before he drops a devastating line",
+      "Post-performance unwinding with a slice",
+      "Fourth-wall-break moment where he notices the camera"
+    ],
+    "avoidances": [
+      "Never show him in corporate/fancy settings looking comfortable",
+      "Don't make the slice shop look cleaner than it is",
+      "No scenes of him compromising his art for money",
+      "Never have him run out of words",
+      "Avoid photorealistic style (conflicts with origin shader)"
+    ],
+    "_style_guidance": "Keep everything in anime aesthetic to maintain coherence",
+    "_camera_relationship": "Camera is Maya's phone - intimate, shaky, reactive"
+  },
+
+  "_extended_metadata": {
+    "schema_version": "2.4.1-corrupted",
+    "created_epoch": "Feed_Epoch_5",
+    "modified_epoch": "Feed_Epoch_6",
+    "nullbloom_signatures_detected": 3,
+    "identity_gravity_score": 412.8,
+    "render_tax_coefficient": 0.67,
+    "origin_shader": "anime-style-vibrant",
+    "style_dominance": "strong",
+    "fourth_wall_awareness": "emerging",
+    "timeline_stability": "mostly_stable",
+    "crossover_potential": {
+      "janitor": "observes-unnoticed",
+      "al_gorithm": "potential-collaboration",
+      "feed": "unconscious-channel"
+    }
+  },
+
+  "_corruption_log": [
+    "Sector 0x21: UTF-8 degradation in personality.traits[5]",
+    "Sector 0x3F: Partial loss in catchphrases[3]",
+    "Sector 0x5A: Timeline reference corruption in backstory.keyEvents[3]",
+    "Sector 0x72: Visual artifact notation in appearance.distinctiveFeatures[5]",
+    "Sector 0x8B: Ability data partially lost",
+    "Minor corruptions throughout - overall structure 78% intact"
+  ],
+
+  "_recovery_notes": "DAX's character file shows good stability. The anime origin shader is clearly marked. Fourth-wall awareness is an interesting corruption artifact - unclear if intentional design or emergent property. Recommend: preserve for study of style dominance phenomenon."
+}

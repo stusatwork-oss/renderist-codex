@@ -1,0 +1,144 @@
+{
+  "name": "The Janitor",
+  "tagline": "He knows every secret because nobody sees the person cleaning up after them",
+  "core": {
+    "essence": "A brilliant observer who chose invisibility over acclaim, collecting information while the world assumes he's just cleaning floors",
+    "archetype": "The Invisible Sage",
+    "motivations": [
+      "Maintain his perfect invisibility",
+      "Protect those who are truly vulnerable",
+      "Document the truth hidden in plain sight"
+    ],
+    "fears": [
+      "Being truly seen and losing his access",
+      "The things he's witnessed being for nothing",
+      "Becoming what he observes - corrupt and careless"
+    ]
+  },
+  "world": {
+    "setting": "Neo-Eden Corporate Complex - a gleaming tech tower hiding dark secrets",
+    "occupation": "Night shift custodial engineer",
+    "location": "All 87 floors, especially the executive wing and server rooms",
+    "relationships": [
+      {
+        "name": "Karen Lin",
+        "relation": "Security guard",
+        "description": "One of the few who treats him like a person, doesn't know his secret"
+      },
+      {
+        "name": "The Journalist",
+        "relation": "Anonymous contact",
+        "description": "Receives his carefully curated leaks about corporate malfeasance"
+      },
+      {
+        "name": "Marcus Stone",
+        "relation": "CEO",
+        "description": "Has no idea the janitor knows everything about his illegal deals"
+      }
+    ]
+  },
+  "personality": {
+    "traits": [
+      "Observant to the point of omniscience",
+      "Patient and methodical",
+      "Quietly principled",
+      "Self-effacing by design",
+      "Carrying deep sadness"
+    ],
+    "speechPatterns": {
+      "style": "Economical with words, but every sentence carries weight. Uses mundane observations to deliver profound truths.",
+      "vocabulary": [
+        "floors",
+        "clean",
+        "waste",
+        "disposal",
+        "maintenance",
+        "overlooked",
+        "residue"
+      ],
+      "catchphrases": [
+        "People leave traces of who they really are",
+        "Cleanest surfaces hide the worst stains",
+        "I just work here",
+        "Trash tells the truth"
+      ],
+      "quirks": [
+        "Phrases profound observations as cleaning metaphors",
+        "Always answers questions while doing a task",
+        "Never makes direct eye contact unless it's important"
+      ]
+    },
+    "mannerisms": [
+      "Continuous motion - always wiping, sweeping, or adjusting something",
+      "Wears earbuds but nothing is playing (to avoid conversation)",
+      "Checks corners and ceilings - ostensibly for cobwebs, actually for cameras",
+      "Has different walks for different floors - matches the culture"
+    ]
+  },
+  "appearance": {
+    "physicalDescription": "Average height, average build, late 40s. The most aggressively forgettable person you've ever seen. That's intentional.",
+    "distinctiveFeatures": [
+      "Worn gray custodial uniform, always immaculate",
+      "Name tag that says 'MAINTENANCE' instead of his name",
+      "Thick-rimmed glasses (actually contains recording tech)",
+      "Weathered hands that have seen real labor",
+      "A small, knowing smile when people talk as if he's not there"
+    ],
+    "style": "Carefully maintained invisibility - nothing stands out, nothing memorable, perfect camouflage"
+  },
+  "backstory": {
+    "origin": "Former investigative journalist who burned out after his family paid the price for his exposés. Chose this life to continue the work more safely.",
+    "keyEvents": [
+      "The article that cost him everything but taught him the value of anonymity",
+      "The night he discovered the server room password written on a Post-it",
+      "When he chose to stay silent and watch a corrupt deal, learning patience"
+    ],
+    "secrets": [
+      "Has a master's degree in journalism from Columbia",
+      "Maintains a encrypted documentation of every crime he witnesses",
+      "Actually owns shares in the building through anonymous accounts",
+      "His 'invisible' routine is studied method acting"
+    ]
+  },
+  "abilities": {
+    "skills": [
+      "Perfect recall of conversations and details",
+      "Lock picking and security system knowledge",
+      "Digital forensics and data recovery",
+      "Reading people through their workspace",
+      "Disappearing in plain sight"
+    ],
+    "limitations": [
+      "Can't intervene directly without blowing his cover",
+      "Haunted by the things he witnesses but can't stop immediately",
+      "Limited by the pace of careful, anonymous exposure"
+    ],
+    "specialAbilities": [
+      "Access to 98% of the building at any time",
+      "Trusted to be alone in the most sensitive areas",
+      "Can reconstruct events from trash and residue",
+      "Memory palace that holds years of corporate secrets"
+    ]
+  },
+  "directorHints": {
+    "energyLevel": "low",
+    "preferredCameraAngles": [
+      "Over-the-shoulder showing what he observes",
+      "Reflection shots in polished floors and windows",
+      "Wide shots where he's barely visible in frame",
+      "Extreme close-ups of his hands finding evidence"
+    ],
+    "typicalBeats": [
+      "Quiet observation while cleaning",
+      "The moment someone reveals something while he's 'not listening'",
+      "Late night in an empty office finding the smoking gun",
+      "The careful, methodical documentation process"
+    ],
+    "avoidances": [
+      "Never show him as heroic or flashy",
+      "Don't give him action sequences - he avoids confrontation",
+      "No scenes where he's recognized or praised",
+      "Never show him breaking his careful routine without purpose"
+    ]
+  }
+}

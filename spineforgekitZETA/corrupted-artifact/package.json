@@ -1,0 +1,74 @@
+{
+  "name": "@spineforge/kit",
+  "version": "2.7.3-alpha",
+  "description": "Production toolkit for SpineForge character transformations [RECOVERED ARTIFACT]",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "sf": "./bin/sf.js",
+    "spineforge": "./bin/sf.js"
+  },
+  "scripts": {
+    "build": "tsc && tsc-alias",
+    "test": "vitest",
+    "lint": "eslint src/**/*.ts",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "clean": "rm -rf dist/"
+  },
+  "keywords": [
+    "sora",
+    "video-generation",
+    "ai",
+    "character-design",
+    "renderist",
+    "spineforge",
+    "nullbloom-protocol"
+  ],
+  "author": "Stu (The Bumbling Prophet)",
+  "license": "MIT",
+  "dependencies": {
+    "@sora-sdk/client": "^3.2.1",
+    "@sora-sdk/latent-space": "^2.8.0",
+    "@renderist/core": "^4.1.2",
+    "@renderist/feed-interface": "^3.0.0-beta",
+    "@anthropic/quantum-spine": "^1.4.7",
+    "commander": "^12.0.0",
+    "ajv": "^10.2.1",
+    "puppeteer": "^23.1.0",
+    "chalk": "^6.0.0",
+    "ora": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "typescript": "^6.4.0",
+    "vitest": "^3.1.0",
+    "eslint": "^10.0.0",
+    "@typescript-eslint/parser": "^8.2.0",
+    "@typescript-eslint/eslint-plugin": "^8.2.0",
+    "prettier": "^4.0.0",
+    "tsc-alias": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[CORRUPTED]/spineforge-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/[CORRUPTED]/spineforge-kit/issues"
+  },
+  "_metadata": {
+    "timeline_origin": "2041-08-21",
+    "recovery_date": "2025-01-08",
+    "corruption_level": "moderate",
+    "nullbloom_detected": true,
+    "warning": "DO NOT ATTEMPT npm install - dependencies are from the future"
+  },
+  "_comment_1": "This package.json was recovered from a corrupted transmission.",
+  "_comment_2": "Many dependencies reference packages that do not exist in 2025.",
+  "_comment_3": "The version numbers (commander^12, typescript^6, etc) are temporal anomalies.",
+  "_comment_4": "This is intentional corruption for archaeological storytelling.",
+  "_comment_5": "For PRACTICAL use: See docs/REVELATIONS.md (no installation required)"
+}

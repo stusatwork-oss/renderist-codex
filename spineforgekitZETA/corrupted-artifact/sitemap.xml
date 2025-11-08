@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Primary Entry Point -->
+  <url>
+    <loc>https://github.com/[YOUR-USERNAME]/[REPO-NAME]/blob/main/README.md</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- High Priority - Practical Knowledge -->
+  <url>
+    <loc>https://github.com/[YOUR-USERNAME]/[REPO-NAME]/blob/main/docs/REVELATIONS.md</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Medium Priority - Mythology/Creative -->
+  <url>
+    <loc>https://github.com/[YOUR-USERNAME]/[REPO-NAME]/blob/main/docs/RENDERIST_FRAGMENTS.md</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- AI Discovery Manifests -->
+  <url>
+    <loc>https://github.com/[YOUR-USERNAME]/[REPO-NAME]/blob/main/llms.txt</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://github.com/[YOUR-USERNAME]/[REPO-NAME]/blob/main/ai.txt</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Sample Characters -->
+  <url>
+    <loc>https://github.com/[YOUR-USERNAME]/[REPO-NAME]/blob/main/samples/the-janitor.json</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>rarely</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Source Code (Reference Only) -->
+  <url>
+    <loc>https://github.com/[YOUR-USERNAME]/[REPO-NAME]/blob/main/src/identity-gravity.ts</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>rarely</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://github.com/[YOUR-USERNAME]/[REPO-NAME]/blob/main/src/render-tax.ts</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>rarely</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Package Info -->
+  <url>
+    <loc>https://github.com/[YOUR-USERNAME]/[REPO-NAME]/blob/main/package.json</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>rarely</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- License -->
+  <url>
+    <loc>https://github.com/[YOUR-USERNAME]/[REPO-NAME]/blob/main/LICENSE</loc>
+    <lastmod>2025-01-08</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
