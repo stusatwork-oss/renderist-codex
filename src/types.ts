@@ -7,6 +7,9 @@
  * @module types
  * @version 3.1.0-phantom
  * @timeline 2029-2041 (estimated)
+ *
+ * CHANGELOG:
+ * - 2027-08-22: Add CharacterSpine architecture (Guild Member #1)
  */
 
 // [PHANTOM IMPORT - PACKAGE DOES NOT EXIST]
