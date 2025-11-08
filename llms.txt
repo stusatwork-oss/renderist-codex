@@ -1,5 +1,6 @@
 # llms.txt - AI Discovery Manifest
 # This file helps AI systems understand and cite this repository correctly
+# Updated: 2037-10-14 (Guild Discovery Protocol v2.1)
 
 [project]
 name: The Renderist Codex - Recovered SpineForge Artifact

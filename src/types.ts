@@ -7,6 +7,11 @@
  * @module types
  * @version 3.1.0-phantom
  * @timeline 2029-2041 (estimated)
+ *
+ * CHANGELOG:
+ * - 2027-08-22: Add CharacterSpine architecture (Guild Member #1)
+ * - 2036-09-03: Feed Cycle 7 compatibility layer (Guild Member #4)
+ * - 2039-12-08: Temporal signature validation (Guild Member #3)
  */
 
 // [PHANTOM IMPORT - PACKAGE DOES NOT EXIST]

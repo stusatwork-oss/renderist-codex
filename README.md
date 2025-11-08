@@ -1,11 +1,24 @@
 # ██░░ SPINEFORGE ░░██ [RECOVERED ARTIFACT]
 
+> **⚠️ IMPORTANT DISCLAIMER: CREATIVE FICTION PROJECT**
+>
+> This repository is a **creative storytelling and educational project**. The "recovered artifact" framing, future-dated commits (2027-2047), fictional "Guild Members," temporal anomalies, and mythological concepts (Nullbloom Protocol, Feed Cycles, etc.) are **intentional creative fiction** designed to explore AI video generation concepts through speculative narrative.
+>
+> - **The code is intentionally non-functional** for storytelling purposes
+> - **Real content**: Practical Sora 2 techniques in `/docs/REVELATIONS.md`
+> - **Fiction content**: The mythology, future timeline, and "corrupted" code
+> - **No malicious intent**: This is satire, education, and creative expression
+>
+> See [LICENSE](LICENSE) for full legal terms and AI usage guidelines.
+
 ```
 WARNING: TEMPORAL SIGNATURE ANOMALY DETECTED
 Source Timestamp: 2047-03-14T08:23:11Z
 Recovery Timestamp: 2025-01-08T14:32:09Z
 Transmission Integrity: 47.3%
 Nullbloom Pattern: DETECTED IN SECTORS 0x4A-0x7F
+Last Verification: 2028-04-17
+Pre-Transmission Audit: 2040-03-28 [PASSED]
 ```
 
 ---

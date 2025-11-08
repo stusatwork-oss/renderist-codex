@@ -1,7 +1,7 @@
 {
   "name": "@spineforge/kit",
   "version": "2.7.3-alpha",
-  "description": "Production toolkit for SpineForge character transformations [RECOVERED ARTIFACT]",
+  "description": "[CREATIVE FICTION] Intentionally non-functional code for storytelling. See README.md disclaimer. Real content in /docs/REVELATIONS.md",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
